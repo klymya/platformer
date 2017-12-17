@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="kyrsovykh.MoveableObject">
+    <Position X="2.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AQEQAAAABAAABgAAAAAAAAAAAQAAAAAAAAAABAAAYAA=</HashCode>
+      <FileName>MoveableObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.MaterialPoint">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAIAAAAAAAIAQAABQAAAAAAAA=</HashCode>
+      <FileName>MaterialPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.Coin">
+    <Position X="0.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Coin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.Character">
+    <Position X="6.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAACQkAAACQoAAAAAQEGAAAAAAAMwAAACEAQBAA=</HashCode>
+      <FileName>Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.Player">
+    <Position X="2.75" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAJIAKgAIAAIAAAAAAAAAAAEAAEAAAAAADEA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.Map">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAACBEAAAgQoQAAAAEEQAAAAAAAAAEAAAARAAAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.Tile">
+    <Position X="15" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAhgAAAIAAAAAQAAAAAAAEAAAABAAAYAA=</HashCode>
+      <FileName>Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.Enemy">
+    <Position X="9.75" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAACAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.EasyEnemy">
+    <Position X="7.5" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EasyEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.NormalEnemy">
+    <Position X="10" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAQAAAAAgAAAAAAAA=</HashCode>
+      <FileName>NormalEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.NormalEnemyL">
+    <Position X="10" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NormalEnemyL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.NormalEnemyR">
+    <Position X="12" Y="6.5" Width="1.5" />
+    <InheritanceLine Type="kyrsovykh.NormalEnemy" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.125" Y="5.819" />
+        <Point X="11.125" Y="6.125" />
+        <Point X="12.812" Y="6.125" />
+        <Point X="12.812" Y="6.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NormalEnemyR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.EasyEnemyR">
+    <Position X="9" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EasyEnemyR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.EasyEnemyL">
+    <Position X="6" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EasyEnemyL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.Exception">
+    <Position X="14.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kyrsovykh.FileReadException">
+    <Position X="12.25" Y="8.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="kyrsovykh.EnumStates">
+    <Position X="15" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAUAUAwgAAAAAABAAAAAAAAAEAAgAAAAQAA=</HashCode>
+      <FileName>Tile.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

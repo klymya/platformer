@@ -1,0 +1,8 @@
+D:\study\4period\OOP\kyrsovykh\kyrsovykh\kyrsovykh\bin\Debug\kyrsovykh.exe.config
+D:\study\4period\OOP\kyrsovykh\kyrsovykh\kyrsovykh\bin\Debug\kyrsovykh.exe
+D:\study\4period\OOP\kyrsovykh\kyrsovykh\kyrsovykh\bin\Debug\kyrsovykh.pdb
+D:\study\4period\OOP\kyrsovykh\kyrsovykh\kyrsovykh\obj\Debug\kyrsovykh.exe
+D:\study\4period\OOP\kyrsovykh\kyrsovykh\kyrsovykh\obj\Debug\kyrsovykh.pdb
+D:\study\4period\OOP\kyrsovykh\kyrsovykh\kyrsovykh\obj\Debug\kyrsovykh.Properties.Resources.resources
+D:\study\4period\OOP\kyrsovykh\kyrsovykh\kyrsovykh\obj\Debug\kyrsovykh.csproj.GenerateResource.Cache
+D:\study\4period\OOP\kyrsovykh\kyrsovykh\kyrsovykh\bin\Debug\OpenTK.dll
